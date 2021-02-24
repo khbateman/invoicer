@@ -2,3 +2,6 @@ __pycache__/
 Fonts/
 Old_Files_For_Dev
 .DS_Store
+filepaths.txt
+Data/
+Exported_Invoices/
