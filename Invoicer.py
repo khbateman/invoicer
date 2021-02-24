@@ -17,8 +17,7 @@ if show_date == 'N':
 
 
 # new_invoice = Excel2Invoice.Excel2Invoice("Escape Chandler", 5, 'Old_Files_1For_Dev/Client Hours SANDBOX.xlsx').return_invoice()
-new_invoice = Excel2Invoice.Excel2Invoice(client, invoice_number, '/Users/Kenan/OneDrive/Taxes/Client Hours.xlsx').return_invoice()
-
+# new_invoice = Excel2Invoice.Excel2Invoice(client, invoice_number, '/Users/Kenan/OneDrive/Taxes/Client Hours.xlsx').return_invoice()
 
 
 current_year = datetime.datetime.strftime(datetime.datetime.now(), '%Y')
